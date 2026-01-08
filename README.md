@@ -3,5 +3,5 @@ Offline billing feature.
 
 To exicute the code run this commands in the terminal
 
-npm install
-npm run dev
+1) npm install
+2) npm run dev
